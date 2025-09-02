@@ -1,0 +1,62 @@
+[
+    {
+        "title":"123 Main St",
+        "price":"$1,200,000",
+        "location":"123 Main St, Los Angeles, CA 90001",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/123-Main-St"
+    },
+    {
+        "title":"456 Oak Ave",
+        "price":"$850,000",
+        "location":"456 Oak Ave, Los Angeles, CA 90002",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/456-Oak-Ave"
+    },
+    {
+        "title":"789 Pine Rd",
+        "price":"$1,500,000",
+        "location":"789 Pine Rd, Los Angeles, CA 90003",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/789-Pine-Rd"
+    },
+    {
+        "title":"101 Maple Ln",
+        "price":"$950,000",
+        "location":"101 Maple Ln, Los Angeles, CA 90004",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/101-Maple-Ln"
+    },
+    {
+        "title":"202 Elm St",
+        "price":"$1,100,000",
+        "location":"202 Elm St, Los Angeles, CA 90005",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/202-Elm-St"
+    },
+    {
+        "title":"303 Birch Ave",
+        "price":"$1,350,000",
+        "location":"303 Birch Ave, Los Angeles, CA 90006",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/303-Birch-Ave"
+    },
+    {
+        "title":"404 Cedar Rd",
+        "price":"$780,000",
+        "location":"404 Cedar Rd, Los Angeles, CA 90007",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/404-Cedar-Rd"
+    },
+    {
+        "title":"505 Spruce Ln",
+        "price":"$1,650,000",
+        "location":"505 Spruce Ln, Los Angeles, CA 90008",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/505-Spruce-Ln"
+    },
+    {
+        "title":"606 Willow St",
+        "price":"$920,000",
+        "location":"606 Willow St, Los Angeles, CA 90009",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/606-Willow-St"
+    },
+    {
+        "title":"707 Palm Ave",
+        "price":"$1,450,000",
+        "location":"707 Palm Ave, Los Angeles, CA 90010",
+        "link":"https:\/\/www.realtor.com\/realestateandhomes-detail\/707-Palm-Ave"
+    }
+]
